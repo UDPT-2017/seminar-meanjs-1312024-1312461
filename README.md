@@ -1,9 +1,9 @@
-# Seminar-UDPT - *Tên đề tài*
+﻿# Seminar-UDPT - *MEANJS*
 
 **Tên đề tài** là một repository trong đề tài tìm hiểu của lớp Ứng dụng phân tán.
 
 Thành viên:
-* [ ] **MSSV1** Tên sinh viên 1 (tên tài khoản github)
+* [x] **1312461** Nguyễn Hửu Quân (NguyenHuuQuan)
 * [ ] **MSSV2** Tên sinh viên 2 (tên tài khoản github)
 
 URL: **Link github page**
@@ -13,23 +13,22 @@ URL: **Link github page**
 Sinh viên check vào các mục bên dưới và ghi mã sinh viên đã làm vào chức năng theo mẫu. Mục nào ko có MSSV là tính điểm theo nhóm. Cần sắp xếp các chức năng bên dưới theo thứ tự MSSV đã thực hiện.
 
 Yêu cầu **GIT**
-* [ ] Có sử dụng GIT.
-* [ ] Sử dụng GIT theo Centralized Workflow.
+* [x] Có sử dụng GIT.
+* [x] Sử dụng GIT theo Centralized Workflow.
 * [ ] Sử dụng GIT theo Feature Branch Workflow.
 * [ ] Sử dụng GIT theo Gitflow Workflow.
 
 Yêu cầu **bắt buộc**
-* [ ] Source code demo
+* [x] Source code demo
 * [ ] Slide thuyết trình
-* [ ] Tạo github page để viết lại báo cáo cho nội dung đề tài tìm hiểu
+* [x] Tạo github page để viết lại báo cáo cho nội dung đề tài tìm hiểu: https://nguyenhuuquan.github.io/
 
 Các **nội dung lý thuyết** dự định tìm hiểu. Nhóm liệt kê các nội dung đã làm được vào bên dưới và check vào các nội dung đã tìm hiểu được.
 * [ ] Nội dung 1
 * [ ] Nội dung 2
 
 Các **chức năng của demo** đã thực hiện hoặc dự kiến thực hiện. Nhóm check vào các chức năng đã làm
-* [ ] Chức năng 1
-* [ ] Chức năng 2
+* [x] Tạo web viết blog. (1312461)
 
 ## Demo
 
