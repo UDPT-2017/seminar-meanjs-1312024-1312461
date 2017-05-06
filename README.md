@@ -4,7 +4,7 @@
 
 Thành viên:
 * [x] **1312461** Nguyễn Hửu Quân (NguyenHuuQuan)
-* [ ] **MSSV2** Tên sinh viên 2 (tên tài khoản github)
+* [x] **1312024** Phạm Trọng Ân (TrongAnPham)
 
 URL: **Link github page**
 
@@ -24,7 +24,7 @@ Yêu cầu **bắt buộc**
 * [x] Tạo github page để viết lại báo cáo cho nội dung đề tài tìm hiểu: https://nguyenhuuquan.github.io/
 
 Các **nội dung lý thuyết** dự định tìm hiểu. Nhóm liệt kê các nội dung đã làm được vào bên dưới và check vào các nội dung đã tìm hiểu được.
-* [ ] Nội dung 1
+* [x] Tổng quan và các thành phần của MEANJS(1312024-1312461)
 * [ ] Nội dung 2
 
 Các **chức năng của demo** đã thực hiện hoặc dự kiến thực hiện. Nhóm check vào các chức năng đã làm
