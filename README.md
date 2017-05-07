@@ -21,14 +21,14 @@ Yêu cầu **GIT**
 Yêu cầu **bắt buộc**
 * [x] Source code demo
 * [ ] Slide thuyết trình
-* [x] Tạo github page để viết lại báo cáo cho nội dung đề tài tìm hiểu: https://nguyenhuuquan.github.io/
+* [x] Tạo github page để viết lại báo cáo cho nội dung đề tài tìm hiểu: https://github.com/UDPT-2017/seminar-meanjs-1312024-1312461/wiki/REPORT-MEANJS
 
 Các **nội dung lý thuyết** dự định tìm hiểu. Nhóm liệt kê các nội dung đã làm được vào bên dưới và check vào các nội dung đã tìm hiểu được.
 * [x] Tổng quan và các thành phần của MEANJS(1312024-1312461)
 * [ ] Nội dung 2
 
 Các **chức năng của demo** đã thực hiện hoặc dự kiến thực hiện. Nhóm check vào các chức năng đã làm
-* [x] Tạo web viết blog. (1312461)
+* [x] Tạo web viết blog. 
 
 ## Demo
 
