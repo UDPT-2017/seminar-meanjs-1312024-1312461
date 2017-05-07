@@ -25,10 +25,9 @@ Yêu cầu **bắt buộc**
 
 Các **nội dung lý thuyết** dự định tìm hiểu. Nhóm liệt kê các nội dung đã làm được vào bên dưới và check vào các nội dung đã tìm hiểu được.
 * [x] Tổng quan và các thành phần của MEANJS(1312024-1312461)
-* [ ] Nội dung 2
 
 Các **chức năng của demo** đã thực hiện hoặc dự kiến thực hiện. Nhóm check vào các chức năng đã làm
-* [x] Tạo web viết blog. 
+* [x] Tạo web viết blog (1312461): https://blog-meanjs-seminar-udpt.herokuapp.com
 
 ## Demo
 
