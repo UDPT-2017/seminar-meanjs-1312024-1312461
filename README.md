@@ -19,8 +19,8 @@ Yêu cầu **GIT**
 * [ ] Sử dụng GIT theo Gitflow Workflow.
 
 Yêu cầu **bắt buộc**
-* [x] Source code demo
-* [ ] Slide thuyết trình
+* [x] Source code demo (1312461)
+* [x] Slide thuyết trình (1312461)
 * [x] Tạo github page để viết lại báo cáo cho nội dung đề tài tìm hiểu: https://github.com/UDPT-2017/seminar-meanjs-1312024-1312461/wiki/REPORT-MEANJS
 
 Các **nội dung lý thuyết** dự định tìm hiểu. Nhóm liệt kê các nội dung đã làm được vào bên dưới và check vào các nội dung đã tìm hiểu được.
